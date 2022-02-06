@@ -1,0 +1,18 @@
+body {
+    background-color: #dddd;
+}
+
+h1{
+    background-color: #dddd;
+    color: #333 ;
+    width: 13rem;
+    border-top-right-radius:12rem;
+    border-bottom-right-radius: 12rem;
+
+    position: absolute;
+    top: calc(100% - 3rem);
+}
+
+.align-justify {
+    text-align: justify;
+}
