@@ -16,3 +16,7 @@ h1{
 .align-justify {
     text-align: justify;
 }
+
+h3 {
+    font-size: 25px;
+}
